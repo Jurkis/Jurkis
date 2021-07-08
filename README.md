@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Jurijus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurkis&count_private=true&show_icons=true&theme=vue-dark)
 
-[![Jurkis's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jurkis)](https://github.com/jurkis/)
-
 [![wakatime](https://wakatime.com/badge/github/Jurkis/pamokos.svg)](https://wakatime.com/badge/github/Jurkis/pamokos)
 
 
