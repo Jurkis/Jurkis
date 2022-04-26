@@ -9,7 +9,6 @@ Jurkis/Jurkis is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ![Jurijus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurkis&count_private=true&show_icons=true&theme=vue-dark)
-
-[![wakatime](https://wakatime.com/badge/github/Jurkis/pamokos.svg)](https://wakatime.com/badge/github/Jurkis/pamokos)
+[![wakatime](https://wakatime.com/badge/user/57673b18-704b-48f7-83fc-8758ed80c7cd.svg)](https://wakatime.com/@57673b18-704b-48f7-83fc-8758ed80c7cd)
 
 
